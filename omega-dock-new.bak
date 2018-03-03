@@ -1,34 +1,4 @@
-EESchema Schematic File Version 2
-LIBS:power
-LIBS:device
-LIBS:transistors
-LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:omega-dock-new
+EESchema Schematic File Version 4
 LIBS:omega-dock-new-cache
 EELAYER 26 0
 EELAYER END
@@ -45,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L USB_OTG J2
+L omega-dock-new-rescue:USB_OTG-RESCUE-omega-dock-new J2
 U 1 1 5950B756
 P 1300 3900
 F 0 "J2" H 1100 4350 50  0000 L CNN
@@ -56,7 +26,7 @@ F 3 "" H 1450 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L USB_A J1
+L omega-dock-new-rescue:USB_A-RESCUE-omega-dock-new J1
 U 1 1 5950B98B
 P 1450 1950
 F 0 "J1" H 1250 2400 50  0000 L CNN
@@ -67,7 +37,7 @@ F 3 "" H 1600 1900 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L +5V #PWR01
+L power1:+5V #PWR01
 U 1 1 5950BD7E
 P 1800 1450
 F 0 "#PWR01" H 1800 1300 50  0001 C CNN
@@ -78,11 +48,11 @@ F 3 "" H 1800 1450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1600 3700 2050 3700
+	1600 3700 1750 3700
 Wire Wire Line
 	1750 3700 1750 3600
 $Comp
-L +5V #PWR02
+L power1:+5V #PWR02
 U 1 1 5950C251
 P 1750 3600
 F 0 "#PWR02" H 1750 3450 50  0001 C CNN
@@ -95,7 +65,7 @@ $EndComp
 Wire Wire Line
 	1200 4300 1300 4300
 $Comp
-L GND #PWR03
+L power1:GND #PWR03
 U 1 1 5950C2F7
 P 1300 4400
 F 0 "#PWR03" H 1300 4150 50  0001 C CNN
@@ -115,7 +85,7 @@ Wire Wire Line
 Wire Wire Line
 	1650 4000 1600 4000
 Wire Wire Line
-	5500 4850 7350 4850
+	5500 4850 6700 4850
 Wire Wire Line
 	5500 4550 6200 4550
 Wire Wire Line
@@ -123,12 +93,12 @@ Wire Wire Line
 Wire Wire Line
 	7750 4950 7850 4950
 Wire Wire Line
-	7750 3950 7750 4950
+	7750 3950 7750 4650
 Wire Wire Line
 	7750 4650 7850 4650
 Connection ~ 7750 4650
 $Comp
-L C C5
+L omega-dock-new-rescue:C-RESCUE-omega-dock-new C5
 U 1 1 5950E1D8
 P 8050 4150
 F 0 "C5" H 8075 4250 50  0000 L CNN
@@ -139,12 +109,12 @@ F 3 "" H 8050 4150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7650 3950 8050 3950
+	7650 3950 7750 3950
 Wire Wire Line
 	8050 3950 8050 4000
 Connection ~ 7750 3950
 $Comp
-L GND #PWR04
+L power1:GND #PWR04
 U 1 1 5950E32A
 P 8050 4300
 F 0 "#PWR04" H 8050 4050 50  0001 C CNN
@@ -155,7 +125,7 @@ F 3 "" H 8050 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R1
+L omega-dock-new-rescue:R-RESCUE-omega-dock-new R1
 U 1 1 5950E906
 P 6450 4400
 F 0 "R1" V 6530 4400 50  0000 C CNN
@@ -166,7 +136,7 @@ F 3 "" H 6450 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R2
+L omega-dock-new-rescue:R-RESCUE-omega-dock-new R2
 U 1 1 5950E933
 P 6700 4400
 F 0 "R2" V 6780 4400 50  0000 C CNN
@@ -177,7 +147,7 @@ F 3 "" H 6700 4400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R3
+L omega-dock-new-rescue:R-RESCUE-omega-dock-new R3
 U 1 1 5950EB0A
 P 6450 5350
 F 0 "R3" V 6530 5350 50  0000 C CNN
@@ -188,7 +158,7 @@ F 3 "" H 6450 5350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R4
+L omega-dock-new-rescue:R-RESCUE-omega-dock-new R4
 U 1 1 5950EB41
 P 6700 5350
 F 0 "R4" V 6780 5350 50  0000 C CNN
@@ -209,7 +179,7 @@ Wire Wire Line
 Wire Wire Line
 	6700 5500 6450 5500
 $Comp
-L C C4
+L omega-dock-new-rescue:C-RESCUE-omega-dock-new C4
 U 1 1 5950F143
 P 6700 5700
 F 0 "C4" H 6725 5800 50  0000 L CNN
@@ -220,7 +190,7 @@ F 3 "" H 6700 5700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L C C3
+L omega-dock-new-rescue:C-RESCUE-omega-dock-new C3
 U 1 1 5950F19F
 P 6700 4050
 F 0 "C3" H 6725 4150 50  0000 L CNN
@@ -237,7 +207,7 @@ Wire Wire Line
 	6700 4250 6700 4200
 Connection ~ 6700 4250
 $Comp
-L GND #PWR05
+L power1:GND #PWR05
 U 1 1 5950F3FA
 P 6700 3900
 F 0 "#PWR05" H 6700 3650 50  0001 C CNN
@@ -248,7 +218,7 @@ F 3 "" H 6700 3900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L GND #PWR06
+L power1:GND #PWR06
 U 1 1 5950F5A6
 P 6700 5850
 F 0 "#PWR06" H 6700 5600 50  0001 C CNN
@@ -275,7 +245,7 @@ Wire Wire Line
 Wire Wire Line
 	1950 2100 2600 2100
 $Comp
-L GND #PWR07
+L power1:GND #PWR07
 U 1 1 595105A0
 P 2400 2150
 F 0 "#PWR07" H 2400 1900 50  0001 C CNN
@@ -286,7 +256,7 @@ F 3 "" H 2400 2150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L +3.3V #PWR08
+L power1:+3.3V #PWR08
 U 1 1 59510668
 P 3650 1650
 F 0 "#PWR08" H 3650 1500 50  0001 C CNN
@@ -317,7 +287,7 @@ Wire Wire Line
 Wire Wire Line
 	5800 3650 5500 3650
 $Comp
-L AP111733 U2
+L omega-dock-new-rescue:AP111733-RESCUE-omega-dock-new U2
 U 1 1 59510FB8
 P 2350 3700
 F 0 "U2" H 2450 3450 50  0000 C CNN
@@ -329,7 +299,7 @@ F 3 "" H 2450 3450 50  0001 C CNN
 $EndComp
 Connection ~ 1750 3700
 $Comp
-L CP_Small C1
+L omega-dock-new-rescue:CP_Small-RESCUE-omega-dock-new C1
 U 1 1 59511627
 P 1900 3850
 F 0 "C1" H 1910 3920 50  0000 L CNN
@@ -340,7 +310,7 @@ F 3 "" H 1900 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CP_Small C2
+L omega-dock-new-rescue:CP_Small-RESCUE-omega-dock-new C2
 U 1 1 595116AD
 P 2800 3850
 F 0 "C2" H 2810 3920 50  0000 L CNN
@@ -353,7 +323,7 @@ $EndComp
 Wire Wire Line
 	2650 3700 2800 3700
 $Comp
-L GND #PWR09
+L power1:GND #PWR09
 U 1 1 5951185A
 P 2800 3950
 F 0 "#PWR09" H 2800 3700 50  0001 C CNN
@@ -364,7 +334,7 @@ F 3 "" H 2800 3950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR010
+L power1:GND #PWR010
 U 1 1 595118AA
 P 2350 4000
 F 0 "#PWR010" H 2350 3750 50  0001 C CNN
@@ -375,7 +345,7 @@ F 3 "" H 2350 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR011
+L power1:GND #PWR011
 U 1 1 595118DC
 P 1900 3950
 F 0 "#PWR011" H 1900 3700 50  0001 C CNN
@@ -389,7 +359,7 @@ Wire Wire Line
 	1900 3750 1900 3700
 Connection ~ 1900 3700
 $Comp
-L +3.3V #PWR012
+L power1:+3.3V #PWR012
 U 1 1 59511B86
 P 2800 3600
 F 0 "#PWR012" H 2800 3450 50  0001 C CNN
@@ -400,10 +370,10 @@ F 3 "" H 2800 3600 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	2800 3600 2800 3750
+	2800 3600 2800 3700
 Connection ~ 2800 3700
 $Comp
-L GND #PWR013
+L power1:GND #PWR013
 U 1 1 59512193
 P 1450 2500
 F 0 "#PWR013" H 1450 2250 50  0001 C CNN
@@ -414,7 +384,7 @@ F 3 "" H 1450 2500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR014
+L power1:GND #PWR014
 U 1 1 59512B28
 P 7600 5750
 F 0 "#PWR014" H 7600 5500 50  0001 C CNN
@@ -433,11 +403,11 @@ Wire Wire Line
 Wire Wire Line
 	3950 3350 3950 3150
 Wire Wire Line
-	3850 3150 5500 3150
+	3850 3150 3950 3150
 Wire Wire Line
 	5500 3150 5500 3350
 $Comp
-L GND #PWR015
+L power1:GND #PWR015
 U 1 1 595130B7
 P 3850 3200
 F 0 "#PWR015" H 3850 2950 50  0001 C CNN
@@ -448,7 +418,7 @@ F 3 "" H 3850 3200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L +3.3V #PWR016
+L power1:+3.3V #PWR016
 U 1 1 595130E9
 P 6000 3200
 F 0 "#PWR016" H 6000 3050 50  0001 C CNN
@@ -489,7 +459,7 @@ Wire Wire Line
 Wire Wire Line
 	1350 2400 1450 2400
 Wire Wire Line
-	1450 2350 1450 2500
+	1450 2350 1450 2400
 Connection ~ 1450 2400
 Wire Wire Line
 	6450 5200 6450 5050
@@ -514,7 +484,7 @@ UD+
 Text Label 2000 2100 0    60   ~ 0
 UD-
 $Comp
-L Polyfuse F1
+L omega-dock-new-rescue:Polyfuse-RESCUE-omega-dock-new F1
 U 1 1 5952722D
 P 1800 1600
 F 0 "F1" V 1700 1600 50  0000 C CNN
@@ -527,7 +497,7 @@ $EndComp
 Wire Wire Line
 	1750 1750 1800 1750
 $Comp
-L USBLC6-2 U1
+L omega-dock-new:USBLC6-2 U1
 U 1 1 5951020C
 P 3050 2000
 F 0 "U1" H 3050 2300 60  0000 C CNN
@@ -538,7 +508,7 @@ F 3 "" H 3050 2000 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L OMEGA_2 U3
+L omega-dock-new:OMEGA_2 U3
 U 1 1 5952F8F9
 P 4750 4400
 F 0 "U3" H 5200 5650 60  0000 C CNN
@@ -549,7 +519,7 @@ F 3 "" H 4750 5000 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 7350 7500 0    60   ~ 0
-Omega dock\new
+Omega dock\ new
 Text Notes 8150 7650 0    60   ~ 0
 August 7, 2017
 Text Notes 10600 7650 0    60   ~ 0
@@ -565,7 +535,7 @@ Wire Notes Line
 Wire Notes Line
 	6300 5550 6300 4200
 $Comp
-L RJ45-TRAFO J3
+L omega-dock-new:RJ45-TRAFO J3
 U 1 1 59867667
 P 9150 5050
 F 0 "J3" H 9580 5225 50  0000 L CNN
@@ -580,13 +550,13 @@ All resistors are 1% or better
 Wire Wire Line
 	6200 4550 6200 5050
 Wire Wire Line
-	6200 5050 7850 5050
+	6200 5050 6450 5050
 Wire Wire Line
 	5500 4700 6150 4700
 Wire Wire Line
 	6150 4700 6150 5000
 Wire Wire Line
-	6150 5000 7650 5000
+	6150 5000 6700 5000
 Wire Wire Line
 	7650 5000 7650 4850
 Wire Wire Line
@@ -600,7 +570,7 @@ Wire Wire Line
 Wire Wire Line
 	5750 5000 5750 4800
 Wire Wire Line
-	5750 4800 7300 4800
+	5750 4800 6450 4800
 Wire Wire Line
 	7300 4800 7300 4550
 Wire Wire Line
@@ -610,7 +580,7 @@ ETH_PWR
 Text GLabel 7650 3950 0    60   Input ~ 0
 ETH_PWR
 $Comp
-L LED D1
+L omega-dock-new-rescue:LED-RESCUE-omega-dock-new D1
 U 1 1 5986906A
 P 7350 3150
 F 0 "D1" V 7388 3032 50  0000 R CNN
@@ -622,7 +592,7 @@ F 4 "LITEON LTST-C150KFKT" V 7350 3150 60  0001 C CNN "Codice TME"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L +3.3V #PWR017
+L power1:+3.3V #PWR017
 U 1 1 598696ED
 P 7350 2700
 F 0 "#PWR017" H 7350 2550 50  0001 C CNN
@@ -633,7 +603,7 @@ F 3 "" H 7350 2700 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L R R5
+L omega-dock-new-rescue:R-RESCUE-omega-dock-new R5
 U 1 1 5986972A
 P 7350 2850
 F 0 "R5" H 7420 2896 50  0000 L CNN
@@ -644,7 +614,7 @@ F 3 "" H 7350 2850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR018
+L power1:GND #PWR018
 U 1 1 5986977F
 P 7350 3300
 F 0 "#PWR018" H 7350 3050 50  0001 C CNN
@@ -655,4 +625,26 @@ F 3 "" H 7350 3300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 7850 5250
+Wire Wire Line
+	7750 4650 7750 4950
+Wire Wire Line
+	7750 3950 8050 3950
+Wire Wire Line
+	6700 4850 7350 4850
+Wire Wire Line
+	6450 4800 7300 4800
+Wire Wire Line
+	1750 3700 1900 3700
+Wire Wire Line
+	1900 3700 2050 3700
+Wire Wire Line
+	2800 3700 2800 3750
+Wire Wire Line
+	3950 3150 5500 3150
+Wire Wire Line
+	1450 2400 1450 2500
+Wire Wire Line
+	6450 5050 7850 5050
+Wire Wire Line
+	6700 5000 7650 5000
 $EndSCHEMATC

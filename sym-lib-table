@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name omega-dock-new-rescue)(type Legacy)(uri ${KIPRJMOD}/omega-dock-new-rescue.lib)(options "")(descr ""))
+  (lib (name power1)(type Legacy)(uri /usr/share/kicad/library/power.lib)(options "")(descr ""))
+  (lib (name omega-dock-new)(type Legacy)(uri ${KIPRJMOD}/omega-dock-new.lib)(options "")(descr ""))
+)
