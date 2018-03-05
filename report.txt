@@ -1,0 +1,296 @@
+Información: Leyendo el archivo de lista de redes "/home/mss/git/omega-dock-new/omega-dock-new.net".
+
+Información: Utilizando referencias para combinar componentes y huellas.
+
+Error: No se ha encontrado para el componente "R5" la huella "R_0805_HandSoldering" en ninguna librería de la tabla de librerías de huellas.
+
+Error: No se ha encontrado para el componente "R4" la huella "R_0805_HandSoldering" en ninguna librería de la tabla de librerías de huellas.
+
+Aviso: Ha cambiado la huella del símbolo "R6": huella en placa "Resistor_SMD:R_1206_3216Metric_Pad1.24x1.80mm_HandSolder", huella en listado de redes "Resistors_SMD:R_0805_HandSoldering"
+
+Aviso: Ha cambiado la huella del símbolo "R7": huella en placa "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder", huella en listado de redes "Resistors_SMD:R_0805_HandSoldering"
+
+Aviso: Ha cambiado la huella del símbolo "R8": huella en placa "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder", huella en listado de redes "Resistors_SMD:R_0805_HandSoldering"
+
+Error: No se ha encontrado para el componente "D4" la huella "LED_1206_HandSoldering" en ninguna librería de la tabla de librerías de huellas.
+
+Error: No se ha encontrado para el componente "J1" la huella "USB_A" en ninguna librería de la tabla de librerías de huellas.
+
+Error: No se ha encontrado para el componente "F1" la huella "C_1206_HandSoldering" en ninguna librería de la tabla de librerías de huellas.
+
+Error: No se ha encontrado para el componente "C1" la huella "C_0805_HandSoldering" en ninguna librería de la tabla de librerías de huellas.
+
+Error: No se ha encontrado para el componente "C2" la huella "C_0805_HandSoldering" en ninguna librería de la tabla de librerías de huellas.
+
+Aviso: Ha cambiado la huella del símbolo "C9": huella en placa "Capacitor_SMD:CP_Elec_6.3x7.7", huella en listado de redes "Capacitors_SMD:CP_Elec_6.3x5.3"
+
+Aviso: Ha cambiado la huella del símbolo "C7": huella en placa "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm", huella en listado de redes "Capacitors_SMD:CP_Elec_4x5.3"
+
+Error: No se ha definido huella para el símbolo "C4".
+
+Información: Comprobando la huella del símbolo de la red "C1:/5950F19F:Capacitors_SMD:C_0805_HandSoldering".
+
+Error: No se puede añadir el nuevo símbolo "C1:/5950F19F" ya que le falta la huella "Capacitors_SMD:C_0805_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C2:/5950F143:Capacitors_SMD:C_0805_HandSoldering".
+
+Error: No se puede añadir el nuevo símbolo "C2:/5950F143" ya que le falta la huella "Capacitors_SMD:C_0805_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "C3:/5950E1D8:Capacitor_Tantalum_SMD:CP_EIA-3528-12_Kemet-T_Pad1.63x2.40mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C4:/5A9EF6F1:".
+
+Error: No se puede añadir el nuevo símbolo "C4:/5A9EF6F1" ya que le falta la huella "".
+
+Información: Comprobando la huella del símbolo de la red "C5:/5A9C25A2/5A7D40B9:Capacitor_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Información: Comprobando la huella del símbolo de la red "C6:/5A9C25A2/56F69FA4:Capacitor_THT:CP_Radial_D8.0mm_P3.50mm".
+
+Información: Comprobando la huella del símbolo de la red "C7:/5A9C25A2/5AA1AAF1:Capacitors_SMD:CP_Elec_4x5.3".
+
+Información: Comprobando la huella del símbolo de la red "C8:/5A9C25A2/5A7D114C:Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C9:/5A9C25A2/5AA1AAEA:Capacitors_SMD:CP_Elec_6.3x5.3".
+
+Información: Comprobando la huella del símbolo de la red "C10:/5A9C25A2/5A7D13BE:Capacitor_SMD:CP_Elec_6.3x7.7".
+
+Información: Comprobando la huella del símbolo de la red "C11:/5A9C25A2/5A7D141C:Capacitor_SMD:CP_Elec_6.3x7.7".
+
+Información: Comprobando la huella del símbolo de la red "C12:/5A9C25A2/5A7F66F8:Capacitor_SMD:C_1206_3216Metric_Pad1.24x1.80mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "C13:/5A9C4ACF/56FDF00C:Capacitor_THT:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4".
+
+Información: Comprobando la huella del símbolo de la red "C14:/5A9C4ACF/56FDEE79:Capacitor_THT:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4".
+
+Información: Comprobando la huella del símbolo de la red "C15:/5A9C4ACF/56FDF295:Capacitor_THT:C_Rect_L13.0mm_W4.0mm_P10.00mm_FKS3_FKP3_MKS4".
+
+Información: Comprobando la huella del símbolo de la red "D1:/5AA2375F:LED_SMD:LED_0805_2012Metric_Castellated".
+
+Información: Comprobando la huella del símbolo de la red "D2:/5AA23B11:LED_SMD:LED_0805_2012Metric_Castellated".
+
+Información: Comprobando la huella del símbolo de la red "D3:/5AA24F19:LED_SMD:LED_0805_2012Metric_Castellated".
+
+Información: Comprobando la huella del símbolo de la red "D4:/5986906A:LEDs:LED_1206_HandSoldering".
+
+Error: No se puede añadir el nuevo símbolo "D4:/5986906A" ya que le falta la huella "LEDs:LED_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "F1:/5952722D:Capacitors_SMD:C_1206_HandSoldering".
+
+Error: No se puede añadir el nuevo símbolo "F1:/5952722D" ya que le falta la huella "Capacitors_SMD:C_1206_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "J1:/5950B98B:Connectors:USB_A".
+
+Error: No se puede añadir el nuevo símbolo "J1:/5950B98B" ya que le falta la huella "Connectors:USB_A".
+
+Información: Comprobando la huella del símbolo de la red "J2:/5A9CEF1F:Devices_MSS:RJMG1B".
+
+Cambiando de la huella "J2:/5A9CEF1F" el nombre de la red del pad "L1" de "" a "Net-(J2-PadL1)".
+
+Cambiando de la huella "J2:/5A9CEF1F" el nombre de la red del pad "L2" de "" a "Net-(J2-PadL2)".
+
+Cambiando de la huella "J2:/5A9CEF1F" el nombre de la red del pad "L3" de "" a "Net-(J2-PadL3)".
+
+Cambiando de la huella "J2:/5A9CEF1F" el nombre de la red del pad "L4" de "" a "Net-(J2-PadL4)".
+
+Información: Comprobando la huella del símbolo de la red "L1:/5A9EADA7:Inductor_SMD:L_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "L2:/5A9C25A2/5A7D0814:Devices_MSS:SDR0503-XXX".
+
+Información: Comprobando la huella del símbolo de la red "L3:/5A9C25A2/5A7D1470:Inductor_SMD:L_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "P1:/5A9C4ACF/56D598FF:TerminalBlock:TerminalBlock_bornier-5_P5.08mm".
+
+Información: Comprobando la huella del símbolo de la red "R1:/5AA238CD:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R2:/5AA23B18:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R3:/5AA24F20:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R4:/5950E933:Resistors_SMD:R_0805_HandSoldering".
+
+Error: No se puede añadir el nuevo símbolo "R4:/5950E933" ya que le falta la huella "Resistors_SMD:R_0805_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R5:/5950E906:Resistors_SMD:R_0805_HandSoldering".
+
+Error: No se puede añadir el nuevo símbolo "R5:/5950E906" ya que le falta la huella "Resistors_SMD:R_0805_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R6:/5950EB0A:Resistors_SMD:R_0805_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R7:/5950EB41:Resistors_SMD:R_0805_HandSoldering".
+
+Información: Comprobando la huella del símbolo de la red "R8:/5986972A:Resistors_SMD:R_0805_HandSoldering".
+
+Cambiando de la huella "R8:/5986972A" el nombre de la red del pad "2" de "" a "Net-(D4-Pad2)".
+
+Información: Comprobando la huella del símbolo de la red "R9:/5A9C25A2/56F82842:Resistor_SMD:R_1206_3216Metric_Pad1.24x1.80mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R10:/5A9C4ACF/56FDE232:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R11:/5A9C4ACF/56FDE9FE:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R12:/5A9C4ACF/56FDDC11:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R13:/5A9C4ACF/56FDE0AB:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R14:/5A9C4ACF/56FDE7E3:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R15:/5A9C4ACF/56FDDD7A:Resistor_SMD:R_0805_2012Metric_Pad1.15x1.50mm_HandSolder".
+
+Información: Comprobando la huella del símbolo de la red "R16:/5A9C4ACF/56FDE044:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "R17:/5A9C4ACF/56FDE373:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "R18:/5A9C4ACF/56FDDED3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal".
+
+Información: Comprobando la huella del símbolo de la red "RV1:/5A9C25A2/5A7D0BB3:Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm".
+
+Información: Comprobando la huella del símbolo de la red "U1:/5951020C:Package_TO_SOT_SMD:SOT-23-6_Handsoldering".
+
+Cambiando de la huella "U1:/5951020C" el nombre de la red del pad "1" de "" a "/UD+".
+
+Cambiando de la huella "U1:/5951020C" el nombre de la red del pad "3" de "" a "/UD-".
+
+Información: Comprobando la huella del símbolo de la red "U2:/5952F8F9:Devices_MSS:OMEGA_2".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "17" de "" a "Net-(U2-Pad17)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "18" de "" a "Net-(U2-Pad18)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "19" de "" a "Net-(U2-Pad19)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "20" de "" a "Net-(U2-Pad20)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "26" de "" a "Net-(U2-Pad26)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "27" de "" a "TX".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "28" de "" a "RX".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "2" de "" a "Net-(U2-Pad2)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "3" de "" a "Net-(U2-Pad3)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "4" de "" a "Net-(U2-Pad4)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "5" de "" a "Net-(U2-Pad5)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "6" de "" a "Net-(U2-Pad6)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "7" de "" a "Net-(U2-Pad7)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "8" de "" a "Net-(U2-Pad8)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "9" de "" a "Net-(U2-Pad9)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "10" de "" a "Net-(U2-Pad10)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "11" de "" a "Net-(U2-Pad11)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "12" de "" a "Net-(U2-Pad12)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "13" de "" a "Net-(U2-Pad13)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "14" de "" a "Net-(U2-Pad14)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "15" de "" a "Net-(U2-Pad15)".
+
+Cambiando de la huella "U2:/5952F8F9" el nombre de la red del pad "16" de "" a "Net-(U2-Pad16)".
+
+Información: Comprobando la huella del símbolo de la red "U3:/5A9C25A2/5AA1AAF8:Package_TO_SOT_SMD:SOT-223".
+
+Información: Comprobando la huella del símbolo de la red "U4:/5A9C25A2/5A7C683A:Devices_MSS:PBO-3-S5".
+
+Información: Comprobando la huella del símbolo de la red "U5:/5A9C4ACF/57004250:Devices_MSS:MOC306X".
+
+Cambiando de la huella "U5:/5A9C4ACF/57004250" el nombre de la red del pad "5" de "" a "Net-(U5-Pad5)".
+
+Cambiando de la huella "U5:/5A9C4ACF/57004250" el nombre de la red del pad "3" de "" a "Net-(U5-Pad3)".
+
+Información: Comprobando la huella del símbolo de la red "U6:/5A9C4ACF/57004690:Devices_MSS:MOC306X".
+
+Cambiando de la huella "U6:/5A9C4ACF/57004690" el nombre de la red del pad "3" de "" a "Net-(U6-Pad3)".
+
+Cambiando de la huella "U6:/5A9C4ACF/57004690" el nombre de la red del pad "5" de "" a "Net-(U6-Pad5)".
+
+Información: Comprobando la huella del símbolo de la red "U7:/5A9C4ACF/570033F9:Devices_MSS:MOC306X".
+
+Cambiando de la huella "U7:/5A9C4ACF/570033F9" el nombre de la red del pad "3" de "" a "Net-(U7-Pad3)".
+
+Cambiando de la huella "U7:/5A9C4ACF/570033F9" el nombre de la red del pad "5" de "" a "Net-(U7-Pad5)".
+
+Información: Comprobando la huella del símbolo de la red "U8:/5A9C4ACF/56E01A0B:Devices_MSS:SOT-223-Z01".
+
+Información: Comprobando la huella del símbolo de la red "U9:/5A9C4ACF/56E01C28:Devices_MSS:SOT-223-Z01".
+
+Información: Comprobando la huella del símbolo de la red "U10:/5A9C4ACF/56E01680:Devices_MSS:SOT-223-Z01".
+
+Eliminar la red "Net-(D4-Pad2)" de un solo pad en "R8" pad "2"
+
+Eliminar la red "Net-(U2-Pad17)" de un solo pad en "U2" pad "17"
+
+Eliminar la red "Net-(U2-Pad18)" de un solo pad en "U2" pad "18"
+
+Eliminar la red "Net-(U2-Pad19)" de un solo pad en "U2" pad "19"
+
+Eliminar la red "Net-(U2-Pad20)" de un solo pad en "U2" pad "20"
+
+Eliminar la red "Net-(U2-Pad26)" de un solo pad en "U2" pad "26"
+
+Eliminar la red "TX" de un solo pad en "U2" pad "27"
+
+Eliminar la red "RX" de un solo pad en "U2" pad "28"
+
+Eliminar la red "Net-(U2-Pad2)" de un solo pad en "U2" pad "2"
+
+Eliminar la red "Net-(U2-Pad3)" de un solo pad en "U2" pad "3"
+
+Eliminar la red "Net-(U2-Pad4)" de un solo pad en "U2" pad "4"
+
+Eliminar la red "Net-(U2-Pad5)" de un solo pad en "U2" pad "5"
+
+Eliminar la red "Net-(U2-Pad6)" de un solo pad en "U2" pad "6"
+
+Eliminar la red "Net-(U2-Pad7)" de un solo pad en "U2" pad "7"
+
+Eliminar la red "Net-(U2-Pad8)" de un solo pad en "U2" pad "8"
+
+Eliminar la red "Net-(U2-Pad9)" de un solo pad en "U2" pad "9"
+
+Eliminar la red "Net-(U2-Pad10)" de un solo pad en "U2" pad "10"
+
+Eliminar la red "Net-(U2-Pad11)" de un solo pad en "U2" pad "11"
+
+Eliminar la red "Net-(U2-Pad12)" de un solo pad en "U2" pad "12"
+
+Eliminar la red "Net-(U2-Pad13)" de un solo pad en "U2" pad "13"
+
+Eliminar la red "Net-(U2-Pad14)" de un solo pad en "U2" pad "14"
+
+Eliminar la red "Net-(U2-Pad15)" de un solo pad en "U2" pad "15"
+
+Eliminar la red "Net-(U2-Pad16)" de un solo pad en "U2" pad "16"
+
+Eliminar la red "Net-(U5-Pad5)" de un solo pad en "U5" pad "5"
+
+Eliminar la red "Net-(U5-Pad3)" de un solo pad en "U5" pad "3"
+
+Eliminar la red "Net-(U6-Pad3)" de un solo pad en "U6" pad "3"
+
+Eliminar la red "Net-(U6-Pad5)" de un solo pad en "U6" pad "5"
+
+Eliminar la red "Net-(U7-Pad3)" de un solo pad en "U7" pad "3"
+
+Eliminar la red "Net-(U7-Pad5)" de un solo pad en "U7" pad "5"
+
+Eliminar la red "Net-(J2-PadL1)" de un solo pad en "J2" pad "L1"
+
+Eliminar la red "Net-(J2-PadL2)" de un solo pad en "J2" pad "L2"
+
+Eliminar la red "Net-(J2-PadL3)" de un solo pad en "J2" pad "L3"
+
+Eliminar la red "Net-(J2-PadL4)" de un solo pad en "J2" pad "L4"
+
+Eliminar la red "/UD+" de un solo pad en "U1" pad "1"
+
+Eliminar la red "/UD-" de un solo pad en "U1" pad "3"
+
